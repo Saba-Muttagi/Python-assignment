@@ -18,3 +18,4 @@ print("List :",mylist)
 
 tuple2=X.split(",")
 print("Tuple :",tuple(tuple2))
+
